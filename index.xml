@@ -79,9 +79,9 @@ img{width:100%}
         var walink = 'whatsapp://send';
     }
  
-    if(input_name != "" && input_phone != "" && input_collor != ""){
+    if(input_name != "" &amp;&amp; input_phone != "" &amp;&amp; input_collor != ""){
         /* Whatsapp URL */
-        var checkout_whatsapp = walink + '?phone=' + phone + '&text=' + text + '%0A%0A' +
+        var checkout_whatsapp = walink + '?phone=' + phone + '&amp;text=' + text + '%0A%0A' +
             '*Nama* : ' + input_name + '%0A' +
             '*Email* : ' + input_email + '%0A' +
             '*No. Whatsapp* : ' + input_phone + '%0A' +
