@@ -85,7 +85,7 @@ img{width:100%}
             '*Nama* : ' + input_name + '%0A' +
             '*Email* : ' + input_email + '%0A' +
             '*No. Whatsapp* : ' + input_phone + '%0A' +
-            '*Warna Blender* : ' + input_collor + '%0A' +
+            '*Varian Kopi* : ' + input_collor + '%0A' +
             '*Metode Pembayaran* : ' + input_pembayaran + '%0A' +
             '*Alamat Lengkap* : ' + input_alamat + '%0A%0A' + text2 + '%0A';
  
